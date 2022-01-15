@@ -1,3 +1,8 @@
+############################################
+# Developer: Luiz Henrique Nogueira Lorena #
+# 15/01/22                                 #
+############################################
+
 using Random
 using CSV, DataFrames, Statistics
 using JuMP, CPLEX
